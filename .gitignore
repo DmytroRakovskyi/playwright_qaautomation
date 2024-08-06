@@ -1,0 +1,15 @@
+# ignore vscode settings
+.vscode
+# ignore obsidian settings
+.obsidian
+# ignore node_modules/
+node_modules/
+# ignore screenshots
+
+# ignore framework folders
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+test-examples/
+.env
